@@ -1,0 +1,94 @@
+.background{
+background-color: mintcream;
+color: darkslategrey;
+text-align: center;
+}
+
+
+.page2{
+    /* background-color: palegoldenrod; */
+    color: royalblue;
+    font-weight: 800px;
+   font-size: 18px;
+   background: lightgray;
+   margin: 10px;
+   text-align: center;
+   /* border: 1px solid gray; */
+   border-radius: 8px;
+
+}
+
+
+.movie-table{
+    font-weight: 800px;
+    font-size: 18px;
+    background: lightblue;
+    margin: 10px;
+    text-align: center;
+    border-radius: 8px;
+ }
+
+
+ td{
+    padding: 10px;
+ }
+
+
+ td:hover{
+    background-color: paleturquoise;
+ }
+
+ .movie-table img{
+    width: 100px;
+    }
+
+
+    ul{
+        padding-left: 0px;
+        list-style-type: none;
+    }
+
+    .page4{
+    background: tan;
+    color: purple;
+    text-align: center;
+    }
+
+
+    .page3{
+ color: navy;
+ font-weight: 800px;
+font-size: 18px;
+background: peachpuff;
+text-align: center;
+    
+    }
+
+.page6{
+    color: sienna;
+    font-weight: 800px;
+   font-size: 18px;
+   background: olive;
+   margin: 10px;
+   text-align: center;
+   border-radius: 8px; 
+}
+.page6{
+   color: yellow;
+   font-weight: 800px;
+  font-size: 18px;
+  background: darkslategrey;
+  margin: 10px;
+  text-align: center;
+  border-radius: 8px; 
+
+}
+.page5{
+  color: crimson;
+   font-weight: 800px;
+  font-size: 18px;
+  background: snow;
+  margin: 10px;
+  text-align: center;
+  border-radius: 8px; 
+}
